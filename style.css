@@ -315,9 +315,6 @@ footer #bottom h6 {
 }
 
 @media screen and (max-width :1200px) {
-    /* body {
-        background-color: #000;
-    } */
     header .left ul{
         display: none;
     }
@@ -342,10 +339,6 @@ footer #bottom h6 {
     .container{
         padding: 10px 0;
     }
-    /* body {
-        background-color: #989898;
-    } */
-
     header .right i{
         display: block;
         font-size: 22px;
