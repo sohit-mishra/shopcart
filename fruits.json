@@ -1,0 +1,77 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "price": 1.99,
+        "desc": "A crisp and sweet fruit",
+        "img": "/img/apple.png"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "price": 0.75,
+        "desc": "A yellow, curved fruit",
+        "img": "/img/banana.png"
+      },
+      {
+        "id": 3,
+        "name": "Orange",
+        "price": 1.25,
+        "desc": "A citrusy and juicy fruit",
+        "img": "/img/orange.png"
+      },
+      {
+        "id": 4,
+        "name": "Grapes",
+        "price": 2.48,
+        "desc": "Small, sweet, and seedless berries",
+        "img": "/img/grapes.png"
+      },
+      {
+        "id": 5,
+        "name": "Strawberry",
+        "price": 3.98,
+        "desc": "A red and juicy berry",
+        "img": "/img/Strawberry.png"
+      },
+      {
+        "id": 6,
+        "name": "Watermelon",
+        "price": 5.96,
+        "desc": "A refreshing and hydrating fruit",
+        "img": "/img/watermelon.png"
+      },
+      {
+        "id": 7,
+        "name": "Pineapple",
+        "price": 2.75,
+        "desc": "A tropical and sweet fruit",
+        "img": "/img/pineapple.png"
+      },
+      {
+        "id": 8,
+        "name": "Mango",
+        "price": 4.50,
+        "desc": "A tropical fruit with a sweet and creamy taste",
+        "img": "/img/mango.png"
+      },
+      {
+        "id": 9,
+        "name": "Peach",
+        "price": 2.98,
+        "desc": "A soft and fuzzy fruit with a sweet flavor",
+        "img": "/img/peach.png"
+      },
+      {
+        "id": 10,
+        "name": "Cherry",
+        "price": 3.25,
+        "desc": "Small, red, and sweet berries",
+        "img": "/img/cherry.png"
+      }
+      
+    ]
+  }
+  
+  

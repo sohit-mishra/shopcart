@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <title>ShopCart Home</title>
+</head>
+
+<body>
+    <div id="discount">
+        <div class="container">
+            <div class="left">
+                <i class="fa-solid fa-phone"></i>
+                <a href="tel:+91 1234567890">+91 1234567890</a>
+            </div>
+            <div class="middle">
+                <p>Get 50% off Selectd items | Shop Now</p>
+            </div>
+            <div class="right">
+                <select name="Location" id="Location">
+                    <option>Location</option>
+                    <option value="Gujarat">Gujarat</option>
+                    <option value="Rajasthan">Rajasthan</option>
+                    <option value="Harayana">Harayana</option>
+                    <option value="Bhopal">Bhopal</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+
+    <header>
+        <div class="container">
+            <div class="left">
+                <a href="index.html">
+                    <img src="img/logo.svg" alt="">
+                </a>
+                <ul>
+                    <a href="index.html">
+                        <li>Home</li>
+                    </a>
+                    <a href="#fruits_row">
+                        <li>Fresh Fruit</li>
+                    </a>
+                    <a href="#vegetable_row">
+                        <li>Fresh Vegetable</li>
+                    </a>
+                </ul>
+            </div>
+
+            <div class="right">
+                <div id="search">
+                    <input type="text" placeholder="Search Products" />
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+                <a href="#"><i class="fa-solid fa-user"></i> Account</a>
+                <a href="#"><i class="fa-solid fa-cart-shopping"></i> Cart</a>
+                <i class="fa-solid fa-bars" onclick="toggle()"></i>
+                <ul>
+                    <i class="fa-solid fa-x" onclick="toggleclose()"></i>
+                    <a href="index.html">
+                        <li>Home</li>
+                    </a>
+                    <a href="#fruits_row">
+                        <li>Fresh Fruit</li>
+                    </a>
+                    <a href="#vegetable_row">
+                        <li>Fresh Vegetable</li>
+                    </a>
+                    <a href="#">
+                        <li>Account</li>
+                    </a>
+                    <a href="#">
+                        <li>Cart</li>
+                    </a>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <section>
+        <div class="container">
+            <div id="slideshow">
+                <img src="img/photo.png" alt="">
+            </div>
+        </div>
+    </section>
+
+
+    <section>
+        <div class="container">
+            <h1>Fresh Fruits for You</h1>
+            <div id="fruits_row">
+            </div>
+        </div>
+    </section>
+
+
+    <section>
+        <div class="container">
+            <h1>Fresh Vegetable for You</h1>
+            <div id="vegetable_row">
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div id="top">
+                <h2>Join our newsletter to keep up to data with us!</h2>
+                <div id="newsLetterInput"><input type="email" name="" id="" placeholder="Enter your Email"><button>Subscribe</button></div>
+            </div>
+
+            <div id="middle">
+                <div class="left"><a href=""><img src="img/logo.svg" alt=""></a>
+                <p>We are growing up your bussiness with ShopCart</p></div>
+                
+                <div class="right">
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Twitter</li>
+                        <li>Instgram</li>
+                    </ul>
+
+                    <ul>
+                        <li>Term and Policy</li>
+                        <li>Refund Policy</li>
+                        <li>FAQ</li>
+                        <li>News</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="bottom">
+                    <a href="https://www.linkedin.com/in/sohitmishra/"><i class="fa-brands fa-linkedin"></i></a>
+                <h6>Made By Sohit Mishra</h6>
+            </div>
+        </div>
+    </footer>
+    <script src="main.js"></script>
+</body>
+
+</html>

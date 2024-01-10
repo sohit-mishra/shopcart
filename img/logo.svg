@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="374" height="123" viewBox="0 0 374 123">
+  <g id="Group_2" data-name="Group 2" transform="translate(-587 -361)">
+    <g id="Group_1" data-name="Group 1" transform="translate(618 337.197)">
+      <path id="Icon_core-cart" data-name="Icon core-cart" d="M23.63,12.472v4.537h47.51v8.98L65.591,41.96H22.056L15.8,1.125H1.125V5.662H11.45L17.7,46.5H69.259l6.881-19.81V12.472Zm2.654,38.6c-5.521.006-10,4.065-10,9.073s4.478,9.073,10,9.073,10-4.062,10-9.073S31.805,51.082,26.284,51.077Zm0,13.61a4.558,4.558,0,1,1,0-9.073,4.558,4.558,0,1,1,0,9.073Zm35.007-13.61c-5.521.006-10,4.065-10,9.073s4.478,9.073,10,9.073,10-4.062,10-9.073-4.481-9.068-10-9.073Zm0,13.61a4.558,4.558,0,1,1,5-4.537,4.786,4.786,0,0,1-5,4.537Z" transform="translate(51.193 52.345)" fill="#00750a"/>
+    </g>
+    <text id="Sh" transform="translate(588 457)" fill="#00750a" stroke="#00750a" stroke-width="1" font-size="88" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sh</tspan></text>
+    <text id="pKart" transform="translate(752 461)" fill="#00750a" stroke="#00750a" stroke-width="1" font-size="88" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">pKart</tspan></text>
+  </g>
+</svg>
